@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
-  "notes": "Daha temiz bir oyun deneyimi için oyun içi çıkan rahatsız edici pop-uplar olabildiğince engellendi.",
-  "mandatory": false
+  "notes": "Güncelleme mekaniği ve ping ölçüm mekaniği güçlendirildi. Ayarlara Launcher'ı onar seçeneği eklendi.",
+  "mandatory": true
 }
