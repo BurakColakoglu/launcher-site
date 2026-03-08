@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
-  "notes": "Sunucuya giriş özelleştirmeleri yapıldı. Daha hızlı ve güvenli giriş.",
+  "notes": "Daha temiz bir oyun deneyimi için oyun içi çıkan rahatsız edici pop-uplar olabildiğince engellendi.",
   "mandatory": false
 }
