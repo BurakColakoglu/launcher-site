@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
-  "notes": "İnstall ekranı güncellendi artık daha akışkan bir progress var.",
+  "notes": "Bug Fix ve küçük düzeltmeler.",
   "mandatory": true
 }
