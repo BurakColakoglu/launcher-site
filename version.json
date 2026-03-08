@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
-  "notes": "Güncelleme mekaniği ve ping ölçüm mekaniği güçlendirildi. Ayarlara Launcher'ı onar seçeneği eklendi.",
+  "notes": "İnstall ekranı güncellendi artık daha akışkan bir progress var.",
   "mandatory": true
 }
