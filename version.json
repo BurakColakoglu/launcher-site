@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://github.com/UhuRP/uhurp-launcher/releases/latest/download/UhuRPLauncherSetup.exe",
+  "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
   "notes": "İlk kurulum overlay sistemi eklendi. İndirme sırasında launcher kapatma engellendi. Runtime ve javaw.exe otomatik onarım sistemi eklendi. Minecraft tutorial ve recipe popup'ları otomatik kapatılıyor.",
   "mandatory": false
 }
