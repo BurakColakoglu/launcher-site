@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
-  "notes": "Oyun açıkkan oyna butonu deaktif ediliyor.",
+  "notes": "Sunucuya giriş özelleştirmeleri yapıldı. Daha hızlı ve güvenli giriş.",
   "mandatory": false
 }
