@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "downloadUrl": "https://github.com/BurakColakoglu/launcher-site/releases/latest/download/UhuRPLauncherSetup.exe",
   "notes": "Launcher açılımında minecraft ayarlarının sıfırlanması bug'ı engellendi.",
   "mandatory": true
